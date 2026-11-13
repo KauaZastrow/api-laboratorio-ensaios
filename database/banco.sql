@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS banco;
 CREATE DATABASE banco;
 
 USE banco;
